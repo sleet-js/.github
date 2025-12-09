@@ -3,7 +3,7 @@ js playground by sleet to help in the development of near dapps.
 
 ---
 
-When it comes to makeing near dapps for the web you have two options, near api js with like 10 plus diffent pacages for @near-js this or @near-js that and that is not counding wallet connection dependencies.
+When it comes to makeing near dapps for the web you have two options, near api js with like 10 plus diffent pacages for @near-js this or @near-js that and that is not counting wallet connection dependencies.
 
 Or you could use one package. fastintear.
 
