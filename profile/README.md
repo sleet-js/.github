@@ -11,6 +11,7 @@ both options have their use cases and limitaions.
 
 - near api js :: https://docs.near.org/tools/near-api
 - fastintear :: https://github.com/elliotBraem/fastintear
+<br/>
 other near js options
 - near-kit :: https://github.com/r-near/near-kit.git
 - near-jsonrpc-client-ts :: https://github.com/near/near-jsonrpc-client-ts
