@@ -3,7 +3,7 @@ js playground by sleet to help in the development of near dapps.
 
 ---
 
-#### NEAR JS
+### NEAR JS
 
 When it comes to makeing near dapps for the web you have two options, near api js with like 10 plus diffent pacages for @near-js this or @near-js that and that is not counting wallet connection dependencies.
 
@@ -21,7 +21,7 @@ other near js options
 
 ---
 
-#### SLEET JS
+### SLEET JS
 
 **@sleet-js/ft-methods-const**
 <br/>
