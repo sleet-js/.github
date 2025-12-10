@@ -3,6 +3,8 @@ js playground by sleet to help in the development of near dapps.
 
 ---
 
+#### NEAR JS
+
 When it comes to makeing near dapps for the web you have two options, near api js with like 10 plus diffent pacages for @near-js this or @near-js that and that is not counting wallet connection dependencies.
 
 Or you could use one package. fastintear.
@@ -16,6 +18,16 @@ other near js options
 
 - near-kit :: https://github.com/r-near/near-kit.git
 - near-jsonrpc-client-ts :: https://github.com/near/near-jsonrpc-client-ts
+
+---
+
+#### SLEET JS
+
+**@sleet-js/ft-methods-const**
+<br/>
+🐱 https://github.com/sleet-js/ft-methods-const
+<br/>
+🎈 https://www.npmjs.com/package/@sleet-js/ft-methods-const
 
 ---
 
