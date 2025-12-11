@@ -29,6 +29,13 @@ other near js options
 <br/>
 🎈 https://www.npmjs.com/package/@sleet-js/ft-methods-const
 
+**@sleet-js/ref-exchange-methods-const**
+<br/>
+🐱 https://github.com/sleet-js/ref-exchange-methods-const
+<br/>
+🎈https://www.npmjs.com/package/@sleet-js/ref-exchange-methods-const
+
+
 ---
 
 copyright 2025 by sleet.near
