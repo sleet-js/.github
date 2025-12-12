@@ -1,5 +1,5 @@
 # SLEET JS
-js playground by sleet to help in the development of near dapps.
+js playground by sleet to help in the development of near dapps. (it's mostly ts)
 
 ---
 
@@ -35,6 +35,9 @@ other near js options
 <br/>
 🎈https://www.npmjs.com/package/@sleet-js/ref-exchange-methods-const
 
+
+typed contracts for near-kit
+- https://github.com/sleet-js/greeting-contract-type-for-near-kit
 
 ---
 
