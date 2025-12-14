@@ -10,7 +10,7 @@ page
 
 web4-deploy
 ```sh
-web4-deploy page sleet-js.near --nearfs  
+web4-deploy page sleet-js.near --nearfs
 ```
 
 ---
