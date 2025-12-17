@@ -38,6 +38,7 @@ other near js options
 
 typed contracts for near-kit
 - https://github.com/sleet-js/greeting-contract-type-for-near-kit
+- https://github.com/sleet-js/ref-exchange-contract-type-for-near-kit
 
 ---
 
