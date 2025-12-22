@@ -25,6 +25,8 @@ other near js options
 
 **smart-contract-methods-const**
 <br/>
+const's that conatin method names for near smart contracts for easy reuse.
+<br/>
 🐱 https://github.com/sleet-js/smart-contract-methods-const
 <br/>
 🎈 https://www.npmjs.com/package/@sleet-js/ft-methods-const
