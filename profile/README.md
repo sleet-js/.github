@@ -23,17 +23,13 @@ other near js options
 
 ### SLEET JS
 
-**@sleet-js/ft-methods-const**
+**smart-contract-methods-const**
 <br/>
-🐱 https://github.com/sleet-js/ft-methods-const
+🐱 https://github.com/sleet-js/smart-contract-methods-const
 <br/>
 🎈 https://www.npmjs.com/package/@sleet-js/ft-methods-const
-
-**@sleet-js/ref-exchange-methods-const**
 <br/>
-🐱 https://github.com/sleet-js/ref-exchange-methods-const
-<br/>
-🎈https://www.npmjs.com/package/@sleet-js/ref-exchange-methods-const
+🎈 https://www.npmjs.com/package/@sleet-js/ref-exchange-methods-const
 
 
 typed contracts for near-kit
