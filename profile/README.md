@@ -38,6 +38,13 @@ typed contracts for near-kit
 - https://github.com/sleet-js/greeting-contract-type-for-near-kit
 - https://github.com/sleet-js/ref-exchange-contract-type-for-near-kit
 
+**fastintear-custom-client-setup-with-other-custom-functions**
+<br/>
+a custom near client set up with fastintear and functions for interacting with common smart contracts to assist in dapp development.
+<br/>
+https://github.com/sleet-js/fastintear-custom-client-setup-with-other-custom-functions
+
+
 ---
 
 copyright 2025 by sleet.near
