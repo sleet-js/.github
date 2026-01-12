@@ -36,9 +36,11 @@ const's that conatin method names for near smart contracts for easy reuse.
 🎈 https://www.npmjs.com/package/@sleet-js/staking-pool-contract-methods-const
 
 
-typed contracts for near-kit
-- https://github.com/sleet-js/greeting-contract-type-for-near-kit
-- https://github.com/sleet-js/ref-exchange-contract-type-for-near-kit
+**typed contracts for near-kit**
+<br/>
+🐱 https://github.com/sleet-js/greeting-contract-type-for-near-kit
+<br/>
+🐱 https://github.com/sleet-js/ref-exchange-contract-type-for-near-kit
 
 **fastintear-custom-client-setup-with-other-custom-functions**
 <br/>
