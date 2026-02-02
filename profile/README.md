@@ -46,6 +46,13 @@ a custom near client set up with fastintear and functions for interacting with c
 <br/>
 🎈 https://www.npmjs.com/package/@sleet-js/fastintear-custom-client-setup-with-other-custom-functions
 
+**near-kit-custom-client-setup-with-other-custom-functions**
+<br/>
+a custom near-kit near client setup with hot wallet connect and functions for interacting with common smart contracts to assist in dapp development.
+<br/>
+🐱 https://github.com/sleet-js/near-kit-custom-client-setup-with-other-custom-functions
+<br/>
+🎈
 
 ---
 
