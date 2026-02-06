@@ -36,6 +36,8 @@ const's that conatin method names for near smart contracts for easy reuse.
 🎈 https://www.npmjs.com/package/@sleet-js/wrap-near-contract-methods-const
 <br/>
 🎈 https://www.npmjs.com/package/@sleet-js/berryclub-contract-methods-const
+<br/>
+🎈 https://www.npmjs.com/package/@sleet-js/social-near-contract-methods-const
 
 
 **typed contracts for near-kit**
