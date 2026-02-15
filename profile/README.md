@@ -18,6 +18,7 @@ See more at https://docs.near.org/tools/near-api
 **OTHER**
 
 - near-social-js :: https://github.com/NEARBuilders/near-social-js
+- inevents-websocket-client :: https://github.com/INTEARnear/inevents
 
 ---
 
@@ -65,6 +66,12 @@ a custom near-kit near client setup with hot wallet connect and functions for in
 🐱 https://github.com/sleet-js/near-kit-custom-client-setup-with-other-custom-functions
 <br/>
 🎈https://www.npmjs.com/package/@sleet-js/near-kit-custom-client-setup-with-other-custom-functions
+
+---
+
+TO DO
+- fastnear-explorer-client
+- intear-event-client
 
 ---
 
