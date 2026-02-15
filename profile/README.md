@@ -15,6 +15,10 @@ When it comes to makeing near dapps for the web you have a few js options
 
 See more at https://docs.near.org/tools/near-api
 
+**OTHER**
+
+- near-social-js :: https://github.com/NEARBuilders/near-social-js
+
 ---
 
 ### SLEET JS
