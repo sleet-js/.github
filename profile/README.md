@@ -69,10 +69,11 @@ a custom near-kit near client setup with hot wallet connect and functions for in
 
 ---
 
-TO DO
+<!--TO DO
 - fastnear-explorer-client
 - intear-event-client
-- fast data, fast_kv api/client 
+- fast data, fast_kv api/client -->
+
 
 ---
 
