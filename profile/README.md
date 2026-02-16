@@ -67,7 +67,7 @@ a custom near-kit near client setup with hot wallet connect and functions for in
 <br/>
 🎈https://www.npmjs.com/package/@sleet-js/near-kit-custom-client-setup-with-other-custom-functions
 
----
+<!------->
 
 <!--TO DO
 - fastnear-explorer-client
