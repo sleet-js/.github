@@ -64,6 +64,13 @@ a custom near client set up with fastintear and functions for interacting with c
 tool box for near kit with custom web client and reusable functions
 <br/>
 🐱 https://github.com/sleet-js/near-kit-tool-box
+<br/>
+🎈 https://www.npmjs.com/package/@near-kit-tool-box/web
+<br/>
+🎈https://www.npmjs.com/package/@near-kit-tool-box/env
+<br/>
+🎈https://www.npmjs.com/package/@near-kit-tool-box/fun
+
 
 <!------->
 
