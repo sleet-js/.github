@@ -13,6 +13,6 @@ web4-deploy
 web4-deploy page sleet-js.near --nearfs
 ```
 
----
-
-copyright 2025 by sleet.near
+=====================
+<br/>
+copyright 2026 by sleet.near
