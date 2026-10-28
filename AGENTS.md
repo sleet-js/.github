@@ -1,17 +1,17 @@
 # AGENTS
 
-your source of truth for creating sleet-js packages
+Your source of truth for creating sleet-js packages
 
 #### details
 
-- build is outputed to dist folder
+- build is output to the dist folder
 
-#### readme formate
+#### readme format
 
 ```md
-# repo-or-projeect-name-uslley-macthes-remote
+# repo-or-project-name-usually-matches-remote
 
-one line desciption
+one line description
 ```
 
 this code block in the readme somewhere:
