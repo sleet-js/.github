@@ -2,6 +2,9 @@
 
 your source of truth for creating sleet-js packages
 
+#### details
+
+- build is outputed to dist folder
 
 #### readme formate
 
