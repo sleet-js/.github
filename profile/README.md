@@ -38,6 +38,17 @@ tool box for near kit with custom web client and reusable functions
 <br/>
 🎈https://www.npmjs.com/package/@near-kit-tool-box/fun
 
+**middleman**
+<br/>
+clean ts library for interacting with different near APIs
+<br/>
+🐱 https://github.com/sleet-js/middleman
+<br/>
+🎈 https://www.npmjs.com/package/@sleet-js/middleman-intear-api
+<br/>
+🎈 https://www.npmjs.com/package/@sleet-js/middleman-intear-dex-api
+<br/>
+🎈https://www.npmjs.com/package/@sleet-js/middleman-rhea-api
 
 
 ---
