@@ -1,6 +1,6 @@
 # AGENTS
 
-see SKILL.md
+see [SKILL.md](./sleet-js-setup/SKILL.md)
 
 =====================
 <br/>

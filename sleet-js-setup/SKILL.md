@@ -1,4 +1,9 @@
-# AGENTS
+---
+name: sleet-js-setup
+description: Source of truth for setting up and publishing sleet-js packages. Use this skill whenever you are creating a new sleet-js / sleet.near package or npm library, writing its README, setting up the build (dist output), or preparing it for publish (bun publish, npm login, tsc). Also use it when the user mentions a sleet-js package, sleet.near repo setup, package.json scripts for a sleet project, or the "bun i / bun run build / bun publish --dry-run" workflow.
+---
+
+# SLEET JS
 
 Your source of truth for creating sleet-js packages
 
