@@ -1,4 +1,5 @@
 # SLEET JS
+
 js playground by sleet to help in the development of near dapps. (it's mostly ts)
 
 ---
@@ -44,7 +45,6 @@ const's that conatin method names for near smart contracts for easy reuse.
 <br/>
 🎈 https://www.npmjs.com/package/@sleet-js/social-near-contract-methods-const
 
-
 **typed contracts for near-kit**
 <br/>
 🐱 https://github.com/sleet-js/greeting-contract-type-for-near-kit
@@ -71,14 +71,12 @@ tool box for near kit with custom web client and reusable functions
 <br/>
 🎈https://www.npmjs.com/package/@near-kit-tool-box/fun
 
-
 <!------->
 
 <!--TO DO
 - fastnear-explorer-client
 - intear-event-client
 - fast data, fast_kv api/client -->
-
 
 ---
 

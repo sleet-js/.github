@@ -1,4 +1,5 @@
 # SLEET JS
+
 js playground by sleet to help in the development of near dapps.
 
 profile readme
@@ -9,8 +10,14 @@ page
 [page/index.html](./page/index.html)
 
 web4-deploy
+
 ```sh
 web4-deploy page sleet-js.near --nearfs
+```
+
+other
+```sh
+bunx prettier . --write
 ```
 
 =====================
